@@ -1,0 +1,13 @@
+.meditation-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    background-color: #122a42; /* reusing shade of blue */
+    padding: 0.5rem;
+    border-radius: 4px;
+  }
+  
+  .meditation-item h3 {
+    margin: 0 1rem;
+  }
+  
